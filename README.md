@@ -40,6 +40,7 @@
       </div>
 
  <div align="center">
+  <h3>Contact</h3>
   <a href="mailto:sachincse054@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=sachincse054@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
   </a>
