@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" height="200px" src="https://657b1ce0c6a15d290287a022--git-profile-gif.netlify.app/img/img.png">
+<img align="center" alt="Coding" width="100%" height="200px" style="border-radius: 20px;" src="https://657b1ce0c6a15d290287a022--git-profile-gif.netlify.app/img/img.png">
 <h2 align="center">Hi 👋, I'm Sachin Kumar</h2>
 <h3 align="center">A passionate FullStack Developer</h3>
 <div align="center">
