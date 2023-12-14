@@ -1,4 +1,4 @@
-[![MasterHead](https://git-profile-gif.netlify.app/)]
+<img align="center" alt="Coding" width="400" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h2 align="center">Hi 👋, I'm Sachin Kumar</h2>
 <h3 align="center">A passionate FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
